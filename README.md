@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Name:** Akash Purjalkar
-**Batch:** 18th May 
+**Name:** Akash Purjalkar  
+**Batch:** 18th May  
 **Course:** DevOps
 
 ---
@@ -12,7 +12,9 @@
 
 Created a public GitHub repository named **git-practice-task** with a README file.
 
-**Screenshot:** `screen_shots/github.jpg`
+### Screenshot
+
+![GitHub Repository](screen_shots/github.jpg)
 
 ---
 
@@ -38,7 +40,9 @@ Created **feature-A**, added `index.html`, committed, and pushed the branch.
 
 Created a Pull Request from **feature-A** to **main**.
 
-**Screenshot:** `screen_shots/PR_feature-A_branch.jpg`
+### Screenshot
+
+![Feature-A Pull Request](screen_shots/PR_feature-A_branch.jpg)
 
 ---
 
@@ -46,7 +50,9 @@ Created a Pull Request from **feature-A** to **main**.
 
 Created **feature-B**, modified `index.html`, committed, pushed, and created a Pull Request.
 
-**Screenshot:** `screen_shots/PR_feature-B_branch.jpg`
+### Screenshot
+
+![Feature-B Pull Request](screen_shots/PR_feature-B_branch.jpg)
 
 ---
 
@@ -58,9 +64,11 @@ Reviewed and merged the **feature-A** Pull Request into **main**.
 
 ## Task 8: Merge Conflict Resolution
 
-Resolved the merge conflict, committed the changes, and pushed the updated branch.
+Resolved the merge conflict manually, committed the changes, and pushed the updated branch.
 
-**Screenshot:** `screen_shots/merge_conflct_resolve.jpg`
+### Screenshot
+
+![Merge Conflict Resolution](screen_shots/merge_conflct_resolve.jpg)
 
 ---
 
@@ -74,7 +82,9 @@ Merged the **feature-B** Pull Request after resolving the conflict.
 
 Forked a public repository, updated the README, pushed the changes, and created a Pull Request.
 
-**Screenshot:** `screen_shots/Fork_repo_PR_SS.jpg`
+### Screenshot
+
+![Fork Repository](screen_shots/Fork_repo_PR_SS.jpg)
 
 ---
 
@@ -82,7 +92,9 @@ Forked a public repository, updated the README, pushed the changes, and created 
 
 Created a private GitLab repository and added the required project structure.
 
-**Screenshot:** `screen_shots/gitlab.jpg`
+### Screenshot
+
+![GitLab Repository](screen_shots/gitlab.jpg)
 
 ---
 
@@ -90,7 +102,9 @@ Created a private GitLab repository and added the required project structure.
 
 Configured repository mirroring between GitLab and GitHub and verified synchronization.
 
-**Screenshot:** `screen_shots/repository_mirroring.jpg`
+### Screenshot
+
+![Repository Mirroring](screen_shots/repository_mirroring.jpg)
 
 ---
 
@@ -98,23 +112,26 @@ Configured repository mirroring between GitLab and GitHub and verified synchroni
 
 Enabled branch protection on the **main** branch and restricted direct pushes.
 
-**Screenshot:** `screen_shots/Branches_Rules.jpg`
+### Screenshot
+
+![Branch Protection Rules](screen_shots/Branches_Rules.jpg)
 
 ---
 
 ## Task 14: Final Verification
 
-Successfully completed all required tasks including:
+Successfully completed the following:
 
-* GitHub repository creation
-* Repository cloning
-* Feature branch creation
-* Pull Request creation and merging
-* Merge conflict resolution
-* Fork and contribution workflow
-* GitLab repository setup
-* Repository mirroring
-* Branch protection
+- GitHub repository creation
+- Repository cloning
+- Feature branch creation
+- Pull Request creation
+- Pull Request merging
+- Merge conflict resolution
+- Fork and contribution workflow
+- GitLab repository setup
+- Repository mirroring
+- Branch protection configuration
 
 ---
 
@@ -130,48 +147,6 @@ https://gitlab.com/Silver595/assignment-1.git
 
 ---
 
-# Screenshot Location
-
-All screenshots are stored inside the repository in:
-
-```text
-screen_shots/
-```
-
-## Screenshot Files
-
-* screen_shots/github.jpg
-* screen_shots/PR_feature-A_branch.jpg
-* screen_shots/PR_feature-B_branch.jpg
-* screen_shots/merge_conflct_resolve.jpg
-* screen_shots/Fork_repo_PR_SS.jpg
-* screen_shots/gitlab.jpg
-* screen_shots/repository_mirroring.jpg
-* screen_shots/Branches_Rules.jpg
-
----
-
-## Repository Structure
-
-```text
-git-practice-task/
-├── README.md
-├── index.html
-├── test.txt
-└── screen_shots/
-    ├── github.jpg
-    ├── PR_feature-A_branch.jpg
-    ├── PR_feature-B_branch.jpg
-    ├── merge_conflct_resolve.jpg
-    ├── Fork_repo_PR_SS.jpg
-    ├── gitlab.jpg
-    ├── repository_mirroring.jpg
-    └── Branches_Rules.jpg
-```
-
----
-
 ## Conclusion
 
 This assignment demonstrated practical usage of Git and GitLab for repository management, branching strategies, pull requests, merge conflict resolution, repository mirroring, and branch protection.
-
